@@ -1,5 +1,11 @@
-angular.module('app').controller('maNavbarLoginCtrl', function($scope) {
+angular.module('app').controller('maNavbarLoginCtrl', function($scope, $http) {
     $scope.signin = function (username, password) {
-        console.log("I'm not done yet");
+        $http.post('/login', {username:username, password:password}).then(function(response) {
+            if(response.data.success) {
+                console.log('Logged In!');
+            } else {
+                console.log('failed to Log in');
+            }
+        });
     }
 });

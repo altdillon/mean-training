@@ -5,8 +5,10 @@ module.exports = function (config) {
     var db = mongoose.connection;
     db.on('error', console.error.bind(console, 'connection error...'));
     db.once('open', function callback() {
-        console.log('meanapp db opened');
+        console.log('Meanapp db opened');
     });
+
+    // Setup User model
 
     var userSchema = mongoose.Schema({
         firstName: String,
@@ -14,6 +16,9 @@ module.exports = function (config) {
         username: String
     });
     var User = mongoose.model('User', userSchema);
+
+    // Ensure intial data is present
+
     User.find({}).exec(function(err, collection) {
         if (collection.length === 0)
         {
@@ -21,5 +26,5 @@ module.exports = function (config) {
             User.create({firstName:'Benjamin',lastName:'Heberlein',username:'ben'});
             User.create({firstName:'Anthony',lastName:'DeCamillis',username:'deco'});
         }
-    })
+    });
 };

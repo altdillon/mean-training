@@ -1,10 +1,11 @@
-var express = require('express'),
+  var express = require('express'),
     stylus = require('stylus'),
     logger = require('morgan'),
     bodyParser = require('body-parser'),
     cookieParser = require('cookie-parser'),
     session = require('express-session'),
-    passport = require('passport');
+    passport = require('passport'),
+    errorHandler = require('errorhandler');
 
 module.exports = function (app, config) {
     function compile(str, path) {
@@ -22,9 +23,10 @@ module.exports = function (app, config) {
     app.use(session({secret: 'multi vision unicorns',resave:false,saveUninitialized:false}));
     app.use(passport.initialize());
     app.use(passport.session());
+    app.use(errorHandler({ dumpExceptions: true, showStack: true }));
     app.use(stylus.middleware({
         src: config.rootPath + '/public',
         compile: compile
     }));
-    app.use(express.static(config.rootPath + '/public'));
-}
+    app.use(express.static(config.rootPath + '/public'));  
+};

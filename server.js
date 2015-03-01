@@ -18,10 +18,13 @@ require('./server/config/express')(app, config);
 
 require('./server/config/mongoose')(config);
 
-var User = mongoose.model('User');
 passport.use(new LocalStrategy(
     function(username, password, done) {
-        User.findOne({username:username}).exec(function(err, user) {
+        console.log(User);
+        console.log(username);
+
+        User.findById(id, function(err, user) {
+            if (err) {return done(err);}
             if (user) {
                 return done(null, user);
             } else {
@@ -37,8 +40,8 @@ passport.serializeUser(function(user, done) {
     }
 });
 
-passport.deserializeUser (function(user, done) {
-    User.findOne({_id:id}).exec(function(err,user) {
+passport.deserializeUser(function(id, done) {
+    User.findById(id, function(err,user) {
         if(user) {
             return done(null, user);
         } else {
@@ -47,7 +50,15 @@ passport.deserializeUser (function(user, done) {
     })
 });
 
+/*
+
+User.findById(id, function(err, user){
+        done(err, user);
+    })
+*/
+
 require('./server/config/routes')(app);
+
 
 // Server initialization
 

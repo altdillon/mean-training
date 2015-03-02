@@ -1,8 +1,6 @@
-angular.module('app').controller('maNavbarLoginCtrl', function($scope, $http, maIdentity, maNotifier, maAuth) {
+angular.module('app').controller('maNavbarLoginCtrl', function($scope, $location, maIdentity, maNotifier, maAuth) {
     $scope.identity = maIdentity;
-    $scope.signin = signin;
-
-    function signin(username, password) {
+    $scope.signin = function(username, password) {
         maAuth.authenticateUser(username, password).then(function(success){
         	if (success) {
         		maNotifier.notify('You have successfully signed in!');
@@ -11,4 +9,12 @@ angular.module('app').controller('maNavbarLoginCtrl', function($scope, $http, ma
         	}
         });
     };
+    $scope.signout = function () {
+        maAuth.logoutUser().then(function() {
+            $scope.username = "";
+            $scope.password = "";
+            maNotifier.notify('You have successfully signed out');
+            $location.path('/');
+        })
+    }
 });

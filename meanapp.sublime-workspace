@@ -4,6 +4,114 @@
 		"selected_items":
 		[
 			[
+				"Face",
+				"FacebookUserSchema"
+			],
+			[
+				"ca",
+				"callbackURL"
+			],
+			[
+				"cl",
+				"clientSecret"
+			],
+			[
+				"clie",
+				"clientID"
+			],
+			[
+				"auth",
+				"authConfig"
+			],
+			[
+				"boo",
+				"bootstrapedUserObject"
+			],
+			[
+				"bootstra",
+				"bootstrapedUserObject"
+			],
+			[
+				"boot",
+				"bootstrapedUser"
+			],
+			[
+				"bot",
+				"bootstrapedUser"
+			],
+			[
+				"success",
+				"successfully"
+			],
+			[
+				"sign",
+				"signout"
+			],
+			[
+				"drop",
+				"dropdown"
+			],
+			[
+				"password",
+				"passwordToMatch"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"hash",
+				"hashPwd"
+			],
+			[
+				"createHmac",
+				"crypto.createHmac(hmac, key);"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"res",
+				"resolve"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"succes",
+				"successfully"
+			],
+			[
+				"l",
+				"log	JS - Log to console"
+			],
+			[
+				"succe",
+				"successfully"
+			],
+			[
+				"username",
+				"username:username"
+			],
+			[
+				"error",
+				"errorHandler"
+			],
+			[
+				"er",
+				"errorHandler"
+			],
+			[
+				"mod",
+				"model"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
 				"fun",
 				"function"
 			],
@@ -18,10 +126,6 @@
 			[
 				"use",
 				"username"
-			],
-			[
-				"re",
-				"resolve"
 			],
 			[
 				"resol",
@@ -47,71 +151,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "public/app/account/maNavbarLoginCtrl.js",
-			"settings":
-			{
-				"buffer_size": 486,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "server/includes/scripts.jade",
-			"settings":
-			{
-				"buffer_size": 733,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/app/account/maAuth.js",
-			"settings":
-			{
-				"buffer_size": 497,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/css/site.styl",
-			"settings":
-			{
-				"buffer_size": 416,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/app/account/navbar-login.jade",
-			"settings":
-			{
-				"buffer_size": 391,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "server.js",
-			"settings":
-			{
-				"buffer_size": 1267,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/app/account/maIdentity.js",
-			"settings":
-			{
-				"buffer_size": 165,
-				"line_ending": "Unix",
-				"name": "angular"
-			}
-		},
-		{
-			"file": "public/app/common/maNotifier.js",
-			"settings":
-			{
-				"buffer_size": 222,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -120,11 +159,31 @@
 		"selected_items":
 		[
 			[
-				"pa",
+				"pack",
 				"Package Control: Install Package"
 			],
 			[
-				"pack",
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"termin",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"pa",
 				"Package Control: Install Package"
 			],
 			[
@@ -170,27 +229,45 @@
 		"/Users/Matt/Dropbox/Personal/Training/mean/public/css",
 		"/Users/Matt/Dropbox/Personal/Training/mean/server",
 		"/Users/Matt/Dropbox/Personal/Training/mean/server/config",
-		"/Users/Matt/Dropbox/Personal/Training/mean/server/includes"
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/includes",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/views"
 	],
 	"file_history":
 	[
-		"/Users/Matt/Dropbox/Personal/Training/mean/server/includes/scripts.jade",
-		"/Users/Matt/Dropbox/Personal/Training/mean/public/css/site.styl",
-		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/main/new-courses.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/passport.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/mongoose.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/routes.js",
 		"/Users/Matt/Dropbox/Personal/Training/mean/server.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/oauth.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/includes/layout.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/includes/currentUser.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/maIdentity.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/facebook.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/includes/scripts.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/maAuth.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/maNavbarLoginCtrl.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/navbar-login.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/auth.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/express.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/COMMIT_EDITMSG.COMMIT_EDITMSG",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/css/site.styl",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/common/maNotifier.js",
+		"/Users/Matt/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/main/new-courses.jade",
 		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/main/featured-courses.jade",
 		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/app.js",
 		"/Users/Matt/Dropbox/Personal/Training/mean/untitled.sublime-project"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -198,6 +275,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"_id",
+			"session"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -215,245 +294,14 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "public/app/account/maNavbarLoginCtrl.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 486,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								208,
-								208
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "server/includes/scripts.jade",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 733,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								720,
-								720
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "public/app/account/maAuth.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 497,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								393,
-								393
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "public/css/site.styl",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 416,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								416,
-								416
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Stylus/Stylus.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "public/app/account/navbar-login.jade",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 391,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								80,
-								80
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "server.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1267,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								922,
-								922
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 46.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "public/app/account/maIdentity.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 165,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								164,
-								164
-							]
-						],
-						"settings":
-						{
-							"auto_name": "angular",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "public/app/common/maNotifier.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 222,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								79,
-								79
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 23.0
 	},
 	"input":
 	{
@@ -486,10 +334,14 @@
 	{
 		"height": 0.0
 	},
+	"output.git":
+	{
+		"height": 100.0
+	},
 	"project": "meanapp.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":

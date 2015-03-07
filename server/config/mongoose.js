@@ -2,6 +2,8 @@ var mongoose = require('mongoose'),
 crypto = require('crypto');
 
 module.exports = function (config) {
+    // Connect to Mongo Database
+
     mongoose.connect(config.db);
     var db = mongoose.connection;
     db.on('error', console.error.bind(console, 'connection error...'));
@@ -16,27 +18,29 @@ module.exports = function (config) {
         lastName: String,
         username: String,
         salt: String,
-        hashed_pwd: String
+        hashed_pwd: String,
+        roles: [String]
     });
     userSchema.methods = {
         authenticate: function(passwordToMatch) {
             return hashPwd(this.salt, passwordToMatch) === this.hashed_pwd;
         }
     }
-    User = mongoose.model('User', userSchema);
+    var User = mongoose.model('User', userSchema);
     
     // Ensure intial data is present
 
     User.find({}).exec(function(err, collection) {
         if (collection.length === 0)
         {
+            console.log('Creating Users...');
             var salt, hash;
             salt = createSalt();
             hash = hashPwd(salt, 'matt');
-            User.create({firstName:'Matthew',lastName:'Thompson',username:'matt', salt:salt, hashed_pwd: hash});
+            User.create({firstName:'Matthew', lastName:'Thompson',username:'matt', salt:salt, hashed_pwd: hash, roles: ['admin']});
             salt = createSalt();
             hash = hashPwd(salt, 'ben');
-            User.create({firstName:'Benjamin',lastName:'Heberlein',username:'ben', salt:salt, hashed_pwd: hash});
+            User.create({firstName:'Benjamin',lastName:'Heberlein',username:'ben', salt:salt, hashed_pwd: hash, roles: []});
             salt = createSalt();
             hash = hashPwd(salt, 'deco');
             User.create({firstName:'Anthony',lastName:'DeCamillis',username:'deco', salt:salt, hashed_pwd: hash});

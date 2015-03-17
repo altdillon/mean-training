@@ -1,1 +1,5 @@
-# mean-training
+# Matthew Thompson MEAN Stack Training
+
+This repo contains the webapp I created while training with Joe Eames' course ["Building AngularJS and Node.js Apps with the MEAN Stack"](http://www.pluralsight.com/courses/building-angularjs-nodejs-apps-mean) from Pluralsight. It allows users to create and update accounts using a Bootstrap/AngularJS frontend and a NodeJS/ExpressJS backend with a Mongo database.
+
+To run the app, run "node server.js" (or "nodemon server.js") from the root directory. A mongo database running through localhost should already exist with a database named meanapp and a collection named users. The app will populate this collection with 3 default users to demonstrate how admin authorization is implemented (some users are admin, others aren't) once the app is run for the first time. To login once the app is connected to node and mongo, use the username "matt" and password "matt" to login with an admin account.

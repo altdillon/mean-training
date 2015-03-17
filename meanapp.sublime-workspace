@@ -4,24 +4,196 @@
 		"selected_items":
 		[
 			[
+				"ro",
+				"row"
+			],
+			[
+				"ca",
+				"callback"
+			],
+			[
+				"authori",
+				"authorize"
+			],
+			[
+				"succ",
+				"success"
+			],
+			[
+				"auth",
+				"authorize"
+			],
+			[
+				"author",
+				"authorize"
+			],
+			[
+				"cors",
+				"corsOptions"
+			],
+			[
+				"aut",
+				"authorize"
+			],
+			[
+				"consol",
+				"console.log"
+			],
+			[
+				"create",
+				"createSalt"
+			],
+			[
+				"exten",
+				"extend"
+			],
+			[
+				"current",
+				"currentUser"
+			],
+			[
+				"typ",
+				"type"
+			],
+			[
+				"new",
+				"newUserData"
+			],
+			[
+				"cur",
+				"currentUser"
+			],
+			[
+				"isAu",
+				"isAuthenticated"
+			],
+			[
+				"hre",
+				"href"
+			],
+			[
+				"fom",
+				"form-group"
+			],
+			[
+				"au",
+				"authorize"
+			],
+			[
+				"authe",
+				"authorizeFacebook"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"pass",
+				"passport"
+			],
+			[
+				"call",
+				"callbackURL"
+			],
+			[
+				"clie",
+				"clientSecret"
+			],
+			[
+				"face",
+				"facebookAuth"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"encry",
+				"encrypt"
+			],
+			[
+				"control",
+				"controller"
+			],
+			[
+				"newUser",
+				"newUserData"
+			],
+			[
+				"cont",
+				"controller"
+			],
+			[
+				"sign",
+				"signup"
+			],
+			[
+				"pull",
+				"pull-right"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"cu",
+				"currentUser"
+			],
+			[
+				"$lcoa",
+				"$location	AngularJS"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"a",
+				"admin"
+			],
+			[
+				"ma",
+				"maIdentity"
+			],
+			[
+				"maUs",
+				"maUserListCtrl"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"is",
+				"isAdmin"
+			],
+			[
+				"User",
+				"UserResource"
+			],
+			[
+				"bo",
+				"bootstrappedUserObject"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
 				"Face",
 				"FacebookUserSchema"
 			],
 			[
-				"ca",
-				"callbackURL"
-			],
-			[
 				"cl",
 				"clientSecret"
-			],
-			[
-				"clie",
-				"clientID"
-			],
-			[
-				"auth",
-				"authConfig"
 			],
 			[
 				"boo",
@@ -44,20 +216,12 @@
 				"successfully"
 			],
 			[
-				"sign",
-				"signout"
-			],
-			[
 				"drop",
 				"dropdown"
 			],
 			[
 				"password",
 				"passwordToMatch"
-			],
-			[
-				"pass",
-				"password"
 			],
 			[
 				"hash",
@@ -82,10 +246,6 @@
 			[
 				"succes",
 				"successfully"
-			],
-			[
-				"l",
-				"log	JS - Log to console"
 			],
 			[
 				"succe",
@@ -136,14 +296,6 @@
 				"factory	AngularJS"
 			],
 			[
-				"a",
-				"app"
-			],
-			[
-				"ma",
-				"maNotifier"
-			],
-			[
 				"col",
 				"col-md-"
 			]
@@ -151,6 +303,105 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "public/app/account/maNavbarLoginCtrl.js",
+			"settings":
+			{
+				"buffer_size": 1374,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/config/oauth.js",
+			"settings":
+			{
+				"buffer_size": 203,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/app/account/facebook-callback.jade",
+			"settings":
+			{
+				"buffer_size": 65,
+				"line_ending": "Unix",
+				"name": "facebook-callback.jade"
+			}
+		},
+		{
+			"file": "public/app/account/maAuth.js",
+			"settings":
+			{
+				"buffer_size": 2162,
+				"line_ending": "CR"
+			}
+		},
+		{
+			"file": "server/config/passport.js",
+			"settings":
+			{
+				"buffer_size": 2749,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/models/User.js",
+			"settings":
+			{
+				"buffer_size": 1916,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/site.css",
+			"settings":
+			{
+				"buffer_size": 440,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/app/app.js",
+			"settings":
+			{
+				"buffer_size": 1292,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/config/authorize.js",
+			"settings":
+			{
+				"buffer_size": 524,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/controllers/users.js",
+			"settings":
+			{
+				"buffer_size": 1441,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 1974 files for \"partials\"\n\n/Users/Matt/Dropbox/Personal/Training/mean/node_modules/express/History.md:\n 2364    * Added callback support for `res.sendfile()`\n 2365    * Added support for middleware access via `express.middlewareName()` vs `connect.middlewareName()`\n 2366:   * Added \"partials\" setting to docs\n 2367    * Added default expresso tests to `express(1)` generated app. Closes #384\n 2368    * Fixed `res.sendfile()` error handling, defer via `next()`\n ....\n 2398    * Added; _home_ setting defaults to `Server#route` for mounted apps. Closes #363\n 2399    * Added Guillermo Rauch to the contributor list\n 2400:   * Added support for \"as\" for non-collection partials. Closes #341\n 2401    * Fixed _install.sh_, ensuring _~/.node_libraries_ exists. Closes #362 [thanks jf]\n 2402    * Fixed `res.render()` exceptions, now passed to `next()` when no callback is given [thanks guillermo]\n ....\n 2488    * Changed; Logger \"common\" format scale of 0.4f\n 2489    * Removed Logger \"request\" format\n 2490:   * Fixed; Catching ENOENT in view caching, preventing error when \"views/partials\" is not found\n 2491    * Fixed several issues with http client\n 2492    * Fixed Logger Content-Length output\n ....\n 2502    * Added Request#render() callback function. Closes #258\n 2503    * Added \"max upload size\" setting\n 2504:   * Added \"magic\" variables to collection partials (\\_\\_index\\_\\_, \\_\\_length\\_\\_, \\_\\_isFirst\\_\\_, \\_\\_isLast\\_\\_). Closes #254\n 2505    * Added [haml.js](http://github.com/visionmedia/haml.js) submodule; removed haml-js\n 2506    * Added callback function support to Request#halt() as 3rd/4th arg\n ....\n 2517    * Changed; Request instance created before body parsing. Closes #262\n 2518    * Changed; Pre-caching views in memory when \"cache view contents\" is enabled. Closes #253\n 2519:   * Changed; Pre-caching view partials in memory when \"cache view partials\" is enabled\n 2520    * Updated support to node --version 0.1.90\n 2521    * Updated dependencies\n\n/Users/Matt/Dropbox/Personal/Training/mean/node_modules/jade/node_modules/transformers/README.md:\n   24    - [jazz](http://documentup.com/shinetech/jazz)\n   25    - [jqtpl](http://documentup.com/kof/jqtpl) [(website)](http://api.jquery.com/category/plugins/templates/) - extensible logic-less templates\n   26:   - [JUST](http://documentup.com/baryshev/just) - EJS style template with some special syntax for layouts/partials etc.\n   27    - [liquor](http://documentup.com/chjj/liquor) - extended EJS with significant white space\n   28    - [mustache](http://documentup.com/janl/mustache.js) - logic less templates\n\n/Users/Matt/Dropbox/Personal/Training/mean/node_modules/jade/node_modules/transformers/lib/transformers.js:\n  147    sync: function(str, options){\n  148      var tmpl = this.cache(options) || this.cache(options, this.engine.compile(str, options));\n  149:     return tmpl.render(options, options.partials);\n  150    }\n  151  });\n  ...\n  156    outputFormat: 'xml',\n  157    sync: function(str, options){\n  158:     for (var partial in options.partials) {\n  159:       this.engine.registerPartial(partial, options.partials[partial]);\n  160      }\n  161      var tmpl = this.cache(options) || this.cache(options, this.engine.compile(str, options));\n  ...\n  190    sync: function(str, options){\n  191      var tmpl = this.cache(options) || this.cache(options, this.engine.compile(str));\n  192:     return tmpl(options, options.partials);\n  193    }\n  194  });\n\n/Users/Matt/Dropbox/Personal/Training/mean/public/app/app.js:\n   14      $routeProvider\n   15          .when('/', {\n   16:             templateUrl: '/partials/main/main',\n   17              controller: 'maMainCtrl'\n   18  	    }).when('/admin/users', {\n   19: 	        templateUrl: '/partials/admin/user-list',\n   20  	        controller: 'maUserListCtrl',\n   21  	        resolve: routeRoleChecks.admin\n   22  	    }).when ('/signup', {\n   23: 	    	templateUrl: '/partials/account/signup',\n   24  	    	controller: 'maSignupCtrl'\n   25  	    }).when ('/profile', {\n   26: 	    	templateUrl: '/partials/account/profile',\n   27  	    	controller: 'maProfileCtrl',\n   28  	    	resolve: routeRoleChecks.user\n   29  	    }).when('/authorize/facebook/callback', {\n   30: 	    	templateUrl: '/partials/account/facebook-callback'\n   31  	    });\n   32  	});\n\n/Users/Matt/Dropbox/Personal/Training/mean/public/app/main/main.jade:\n    6      .row\n    7          .col-md-6\n    8:             div(ng-include=\"'/partials/main/featured-courses'\")\n    9          .col-md-6\n   10:             div(ng-include=\"'/partials/main/new-courses'\")\n   11  \n\n/Users/Matt/Dropbox/Personal/Training/mean/public/vendor/angular-route/angular-route.js:\n  277       *\n  278       * @description\n  279:      * `$route` is used for deep-linking URLs to controllers and views (HTML partials).\n  280       * It watches `$location.url()` and tries to map the path to an existing route definition.\n  281       *\n\n/Users/Matt/Dropbox/Personal/Training/mean/server/config/routes.js:\n   13  \n   14  \n   15:     app.get('/partials/*', function (req, res) {\n   16          res.render('../../public/app/' + req.params[0]);\n   17      });\n\n/Users/Matt/Dropbox/Personal/Training/mean/server/views/index.jade:\n   11                      li\n   12                          a(href=\"/\") Home\n   13:                 div(ng-include=\"'/partials/account/navbar-login'\")\n   14      section.content\n   15          div(ng-view)\n\n21 matches across 8 files\n",
+			"settings":
+			{
+				"buffer_size": 5461,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "public/app/account/profile.jade",
+			"settings":
+			{
+				"buffer_size": 1086,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -160,7 +411,11 @@
 		[
 			[
 				"pack",
-				"Package Control: Install Package"
+				"Package Control: Remove Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
 			],
 			[
 				"jade",
@@ -224,43 +479,66 @@
 		"/Users/Matt/Dropbox/Personal/Training/mean/public",
 		"/Users/Matt/Dropbox/Personal/Training/mean/public/app",
 		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/admin",
 		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/common",
 		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/main",
 		"/Users/Matt/Dropbox/Personal/Training/mean/public/css",
 		"/Users/Matt/Dropbox/Personal/Training/mean/server",
 		"/Users/Matt/Dropbox/Personal/Training/mean/server/config",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/controllers",
 		"/Users/Matt/Dropbox/Personal/Training/mean/server/includes",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/models",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/utilities",
 		"/Users/Matt/Dropbox/Personal/Training/mean/server/views"
 	],
 	"file_history":
 	[
-		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/passport.js",
-		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/mongoose.js",
 		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/routes.js",
-		"/Users/Matt/Dropbox/Personal/Training/mean/server.js",
-		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/oauth.js",
-		"/Users/Matt/Dropbox/Personal/Training/mean/server/includes/layout.jade",
-		"/Users/Matt/Dropbox/Personal/Training/mean/server/includes/currentUser.jade",
-		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/maIdentity.js",
-		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/facebook.js",
-		"/Users/Matt/Dropbox/Personal/Training/mean/server/includes/scripts.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/navbar-login.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/app.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/controllers/users.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/passport.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/express.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/models/User.js",
 		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/maAuth.js",
 		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/maNavbarLoginCtrl.js",
-		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/navbar-login.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/oauth.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/includes/scripts.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/maProfileCtrl.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/profile.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/maUser.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/views/index.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/authorize.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/authenticate.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/config.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/maFacebookAuth.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/facebook-navbar-login.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/connect.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/.gitignore",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/signup.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/maSignupCtrl.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/mongoose.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/utilites/encryption.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/common/maNotifier.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/controllers/users.js ",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/admin/maUserListCtrl.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/maIdentity.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server.js",
 		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/auth.js",
-		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/express.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/admin/user-list.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/includes/layout.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/includes/currentUser.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/facebook.js",
 		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/COMMIT_EDITMSG.COMMIT_EDITMSG",
 		"/Users/Matt/Dropbox/Personal/Training/mean/public/css/site.styl",
-		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/common/maNotifier.js",
 		"/Users/Matt/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
 		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/main/new-courses.jade",
 		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/main/featured-courses.jade",
-		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/app.js",
 		"/Users/Matt/Dropbox/Personal/Training/mean/untitled.sublime-project"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -275,6 +553,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"partials",
+			"Hello",
+			"hello",
+			"in callback",
+			"console.log(req",
+			"console.log",
+			"/authorize/facebook/callback",
 			"_id",
 			"session"
 		],
@@ -294,8 +579,453 @@
 	"groups":
 	[
 		{
+			"selected": 6,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "public/app/account/maNavbarLoginCtrl.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1140,
+								1140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "server/config/oauth.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								173,
+								173
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/app/account/facebook-callback.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 65,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"auto_name": "facebook-callback.jade",
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/app/account/maAuth.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1906,
+								1879
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 353.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "server/config/passport.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2749,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2464,
+								2749
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 556.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "server/models/User.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1916,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1916
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "public/css/site.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "public/app/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								992,
+								992
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "server/config/authorize.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								361,
+								361
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "server/controllers/users.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1441
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5461,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										294,
+										302
+									],
+									[
+										678,
+										686
+									],
+									[
+										1090,
+										1098
+									],
+									[
+										1371,
+										1379
+									],
+									[
+										1847,
+										1855
+									],
+									[
+										1883,
+										1891
+									],
+									[
+										2405,
+										2413
+									],
+									[
+										2899,
+										2907
+									],
+									[
+										3046,
+										3054
+									],
+									[
+										3116,
+										3124
+									],
+									[
+										3427,
+										3435
+									],
+									[
+										3611,
+										3619
+									],
+									[
+										3745,
+										3753
+									],
+									[
+										3927,
+										3935
+									],
+									[
+										4056,
+										4064
+									],
+									[
+										4250,
+										4258
+									],
+									[
+										4463,
+										4471
+									],
+									[
+										4559,
+										4567
+									],
+									[
+										4811,
+										4819
+									],
+									[
+										5044,
+										5052
+									],
+									[
+										5346,
+										5354
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1197.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "public/app/account/profile.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1086,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								283,
+								283
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -330,6 +1060,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0

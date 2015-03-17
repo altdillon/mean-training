@@ -1,0 +1,821 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ro",
+				"row"
+			],
+			[
+				"ca",
+				"callback"
+			],
+			[
+				"authori",
+				"authorize"
+			],
+			[
+				"succ",
+				"success"
+			],
+			[
+				"auth",
+				"authorize"
+			],
+			[
+				"author",
+				"authorize"
+			],
+			[
+				"cors",
+				"corsOptions"
+			],
+			[
+				"aut",
+				"authorize"
+			],
+			[
+				"consol",
+				"console.log"
+			],
+			[
+				"create",
+				"createSalt"
+			],
+			[
+				"exten",
+				"extend"
+			],
+			[
+				"current",
+				"currentUser"
+			],
+			[
+				"typ",
+				"type"
+			],
+			[
+				"new",
+				"newUserData"
+			],
+			[
+				"cur",
+				"currentUser"
+			],
+			[
+				"isAu",
+				"isAuthenticated"
+			],
+			[
+				"hre",
+				"href"
+			],
+			[
+				"fom",
+				"form-group"
+			],
+			[
+				"au",
+				"authorize"
+			],
+			[
+				"authe",
+				"authorizeFacebook"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"pass",
+				"passport"
+			],
+			[
+				"call",
+				"callbackURL"
+			],
+			[
+				"clie",
+				"clientSecret"
+			],
+			[
+				"face",
+				"facebookAuth"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"encry",
+				"encrypt"
+			],
+			[
+				"control",
+				"controller"
+			],
+			[
+				"newUser",
+				"newUserData"
+			],
+			[
+				"cont",
+				"controller"
+			],
+			[
+				"sign",
+				"signup"
+			],
+			[
+				"pull",
+				"pull-right"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"cu",
+				"currentUser"
+			],
+			[
+				"$lcoa",
+				"$location	AngularJS"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"a",
+				"admin"
+			],
+			[
+				"ma",
+				"maIdentity"
+			],
+			[
+				"maUs",
+				"maUserListCtrl"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"is",
+				"isAdmin"
+			],
+			[
+				"User",
+				"UserResource"
+			],
+			[
+				"bo",
+				"bootstrappedUserObject"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"Face",
+				"FacebookUserSchema"
+			],
+			[
+				"cl",
+				"clientSecret"
+			],
+			[
+				"boo",
+				"bootstrapedUserObject"
+			],
+			[
+				"bootstra",
+				"bootstrapedUserObject"
+			],
+			[
+				"boot",
+				"bootstrapedUser"
+			],
+			[
+				"bot",
+				"bootstrapedUser"
+			],
+			[
+				"success",
+				"successfully"
+			],
+			[
+				"drop",
+				"dropdown"
+			],
+			[
+				"password",
+				"passwordToMatch"
+			],
+			[
+				"hash",
+				"hashPwd"
+			],
+			[
+				"createHmac",
+				"crypto.createHmac(hmac, key);"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"res",
+				"resolve"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"succes",
+				"successfully"
+			],
+			[
+				"succe",
+				"successfully"
+			],
+			[
+				"username",
+				"username:username"
+			],
+			[
+				"error",
+				"errorHandler"
+			],
+			[
+				"er",
+				"errorHandler"
+			],
+			[
+				"mod",
+				"model"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"mv",
+				"mvAuth"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"resol",
+				"dns.resolve"
+			],
+			[
+				"fa",
+				"factory	AngularJS"
+			],
+			[
+				"col",
+				"col-md-"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Matt/Dropbox/Work/MyStudentPoints/server/config/routes.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "routes.js"
+			}
+		},
+		{
+			"file": "/Users/Matt/Dropbox/Work/MyStudentPoints/server/config/mongoose.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Matt/Dropbox/Work/MyStudentPoints/server/config/authenticate.js",
+			"settings":
+			{
+				"buffer_size": 809,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Matt/Dropbox/Work/MyStudentPoints/server/server.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Matt/Dropbox/Work/MyStudentPoints/server/config/express.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Matt/Dropbox/Work/MyStudentPoints/server/config/passport.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Matt/Dropbox/Work/MyStudentPoints/server/config/config.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"termin",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Matt/Dropbox/Work/MyStudentPoints",
+		"/Users/Matt/Dropbox/Work/MyStudentPoints/public",
+		"/Users/Matt/Dropbox/Work/MyStudentPoints/server",
+		"/Users/Matt/Dropbox/Work/MyStudentPoints/server/config"
+	],
+	"file_history":
+	[
+		"/Users/Matt/Dropbox/Work/MyStudentPoints/bower.json",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/routes.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/navbar-login.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/app.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/controllers/users.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/passport.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/express.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/models/User.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/maAuth.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/maNavbarLoginCtrl.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/oauth.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/includes/scripts.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/maProfileCtrl.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/profile.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/maUser.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/views/index.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/authorize.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/authenticate.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/config.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/maFacebookAuth.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/facebook-navbar-login.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/connect.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/.gitignore",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/signup.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/maSignupCtrl.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/mongoose.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/utilites/encryption.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/common/maNotifier.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/controllers/users.js ",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/admin/maUserListCtrl.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/account/maIdentity.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/auth.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/admin/user-list.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/includes/layout.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/includes/currentUser.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/facebook.js",
+		"/Users/Matt/Dropbox/Personal/Training/mean/server/config/COMMIT_EDITMSG.COMMIT_EDITMSG",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/css/site.styl",
+		"/Users/Matt/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/main/new-courses.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/public/app/main/featured-courses.jade",
+		"/Users/Matt/Dropbox/Personal/Training/mean/untitled.sublime-project"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Hello",
+			"hello",
+			"in callback",
+			"console.log(req",
+			"console.log",
+			"/authorize/facebook/callback",
+			"_id",
+			"session"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Matt/Dropbox/Work/MyStudentPoints/server/config/routes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "routes.js",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Matt/Dropbox/Work/MyStudentPoints/server/config/mongoose.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/Matt/Dropbox/Work/MyStudentPoints/server/config/authenticate.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								809,
+								809
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/Matt/Dropbox/Work/MyStudentPoints/server/server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/Matt/Dropbox/Work/MyStudentPoints/server/config/express.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/Matt/Dropbox/Work/MyStudentPoints/server/config/passport.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/Matt/Dropbox/Work/MyStudentPoints/server/config/config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"project": "MyStudentPoints.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

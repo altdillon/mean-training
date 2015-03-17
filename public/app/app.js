@@ -4,6 +4,9 @@ angular.module('app').config(function($routeProvider, $locationProvider) {
     var routeRoleChecks = {
     	admin: {auth: function(maAuth) {
     		return maAuth.authorizeCurrentUserForRoute('admin');
+    	}},
+    	user: {auth: function(maAuth) {
+    		return maAuth.authorizeAuthenticatedUserForRoute();
     	}}
     };
 
@@ -16,6 +19,15 @@ angular.module('app').config(function($routeProvider, $locationProvider) {
 	        templateUrl: '/partials/admin/user-list',
 	        controller: 'maUserListCtrl',
 	        resolve: routeRoleChecks.admin
+	    }).when ('/signup', {
+	    	templateUrl: '/partials/account/signup',
+	    	controller: 'maSignupCtrl'
+	    }).when ('/profile', {
+	    	templateUrl: '/partials/account/profile',
+	    	controller: 'maProfileCtrl',
+	    	resolve: routeRoleChecks.user
+	    }).when('/authorize/facebook/callback', {
+	    	templateUrl: '/partials/account/facebook-callback'
 	    });
 	});
 
